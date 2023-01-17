@@ -23,7 +23,7 @@ int main(){
             fprintf(archivo1,"%d \n", numeros);
         }
         cont++;
-    }
+    } //jisadjhsaoidsaoid
 
      fclose(archivo);
      fclose(archivo1);
